@@ -1,0 +1,9 @@
+{"ts": 1791513979.834974, "event": "state_change", "region": "b", "to": "UNHEALTHY", "reason": "readyz_status=503", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 3}
+{"ts": 1791513996.7986283, "event": "state_change", "region": "a", "to": "UNHEALTHY", "reason": "probe_timeout", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 3}
+{"ts": 1791514006.8278608, "event": "state_change", "region": "b", "to": "HEALTHY", "reason": "readyz_status=200", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 0}
+{"ts": 1791514104.842422, "event": "state_change", "region": "b", "to": "UNHEALTHY", "reason": "readyz_status=503", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 3}
+{"ts": 1791514121.8023555, "event": "state_change", "region": "a", "to": "UNHEALTHY", "reason": "probe_timeout", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 3}
+{"ts": 1791514136.8329382, "event": "state_change", "region": "b", "to": "HEALTHY", "reason": "readyz_status=200", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 0}
+{"ts": 1791514260.1805391, "event": "state_change", "region": "b", "to": "UNHEALTHY", "reason": "readyz_status=503", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 3}
+{"ts": 1791514277.1345558, "event": "state_change", "region": "a", "to": "UNHEALTHY", "reason": "probe_timeout", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 3}
+{"ts": 1791514292.1613946, "event": "state_change", "region": "b", "to": "HEALTHY", "reason": "readyz_status=200", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 0}
